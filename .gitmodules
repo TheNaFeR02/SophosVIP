@@ -1,0 +1,9 @@
+[submodule "CounterReact"]
+	path = CounterReact
+	url = https://github.com/TheNaFeR02/CounterReact.git
+[submodule "ProfileReact"]
+	path = ProfileReact
+	url = https://github.com/TheNaFeR02/ProfileReact.git
+[submodule "ListaUsuariosReact"]
+	path = ListaUsuariosReact
+	url = https://github.com/TheNaFeR02/ListaUsuariosReact.git
